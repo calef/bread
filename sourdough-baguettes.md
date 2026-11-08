@@ -60,4 +60,16 @@ Use this when the starter peaks in the evening. The bulk ferment happens in the 
 - Poke test: a fingertip dent should spring back slowly and only partway. If the dent stays, it is overproofed.
 - Proofed dough deflates when lifted. Proof on the baking parchment and slide it onto the hot tray.
 - A longer cold proof (up to 24 hours) increases sourness. A shorter one tastes milder.
-- Store the starter in the fridge between bakes and feed it weekly. Before baking, take it out and feed it 1-2 times at room temperature until active again.
+
+## Keeping the starter
+
+Daily discard-and-feed is only needed while building the starter, or if you bake several times a week and keep it on the counter. Otherwise, store it in the fridge.
+
+| When | What to do |
+|------|------------|
+| Right after taking starter for a bake | Discard all but 50 g. Feed 50 g bread flour and 50 g water. Leave out 1-2 hours, then refrigerate with the lid resting loosely. |
+| Weekly | Same: keep 50 g, feed 50 g flour and 50 g water, leave out 1-2 hours, back in the fridge. |
+| 1-2 days before a bake | Take it out and feed 1-2 times at room temperature until it doubles within 4-8 hours again. For the last feed, build more than the 100 g the recipe needs, e.g. 30 g starter + 50 g flour + 50 g water = 130 g, so some is left to keep. |
+
+- A gray liquid on top ("hooch") means it is hungry. Pour it off or stir it in, then feed.
+- Missing a week or two is survivable. It may need an extra room-temperature feed or two before it doubles reliably again.
