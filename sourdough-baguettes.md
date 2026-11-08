@@ -40,6 +40,22 @@ Makes 3 baguettes.
 10. **Score and bake.** Slash each loaf 3-4 times lengthwise at a shallow angle in one confident motion with a sharp blade. Slide the parchment (with the loaves on it) onto the hot stone. Pour 1 cup of hot water into the empty pan and close the door fast. Bake about 25 minutes, until deep golden and hollow-sounding.
 11. **Cool** on a rack for at least 20 minutes before cutting.
 
+### Alternate schedule: mix in the evening, overnight cold bulk
+
+Use this when the starter peaks in the evening. The bulk ferment happens in the fridge, and it replaces the cold proof in step 8. Baking still happens the next day.
+
+**Evening**
+1. Mix, rest, and do the stretch and folds as in steps 1-3.
+2. Leave the dough on the counter until it has risen about 25-30%, often 30-60 minutes after the last fold. Do not wait for the full 1.5x: the dough keeps fermenting for a few hours while it cools, and a full rise before chilling usually means overproofed dough by morning.
+3. Cover tightly and refrigerate 12-24 hours. About 12 hours tastes milder; closer to 24 is more sour.
+
+**Next day**
+1. The dough should be puffy and close to 1.5x. If it is well short, leave it at room temperature for 1-2 hours until it gets there.
+2. Divide and pre-shape while still cold (step 5). Cold dough is much easier to shape.
+3. Bench rest 20-30 minutes, then shape (step 7).
+4. Proof on the parchment at room temperature until it passes the poke test, typically 1.5-2.5 hours from cold.
+5. Preheat, score, bake, and cool as in steps 9-11.
+
 ## Notes
 - Poke test: a fingertip dent should spring back slowly and only partway. If the dent stays, it is overproofed.
 - Proofed dough deflates when lifted. Proof on the baking parchment and slide it onto the hot tray.
